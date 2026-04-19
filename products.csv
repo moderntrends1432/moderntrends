@@ -1,12 +1,5 @@
 id,code,name,category,price,tag,description,images,colors,sizes,types,weights
-1,MT-CLO-001,Silk Midi Dress,clothing,189,New,Fluid silk blend with a relaxed silhouette. Available in ivory & black.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",#000000|#FF0000,S|M|L|XL|2XL,Casual|Party,Light|Medium
+11,MT-CLO-0011,Sky Blue Floral Patch Pure Cotton Kurti With Palazzo Set,clothing,55,New,Sky Blue Floral Patch Pure Cotton Kurti with Palazzo Set. Color might be slightly different due to camera lighting.,https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/MT-CLO-0011/2.jpeg,,M|L|XL|XXL,,
 2,MT-CLO-002,Cashmere Knit Sweater,clothing,245,,Luxuriously soft 100% cashmere in a loose-fit crewneck style.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
@@ -15,6 +8,14 @@ https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",#000000|#FF0000,,,Light|Medium
+1,MT-CLO-001,Silk Midi Dress,clothing,189,New,Fluid silk blend with a relaxed silhouette. Available in ivory & black.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",#000000|#FF0000,S|M|L|XL|2XL,Casual|Party,Light|Medium
 4,MT-CLO-004,Linen Blazer,clothing,212,Sale,Oversized linen blazer with subtle texture. Perfect for layering.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
@@ -43,4 +44,3 @@ https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",,,Casual|Party,Light
-11,MT-CLO-0011,Sky Blue Floral Patch Pure Cotton Kurti With Palazzo Set,clothing,55,New,Sky Blue Floral Patch Pure Cotton Kurti with Palazzo Set. Color might be slightly different due to camera lighting.,https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/MT-CLO-0011/2.jpeg,,M|L|XL|XXL,,
