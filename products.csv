@@ -1,50 +1,53 @@
-id,code,name,category,price,tag,description,images,colors,sizes,types,weights
-11,MT-CLO-0011,Sky Blue Floral Patch Pure Cotton Kurti With Palazzo Set,clothing,55,New,Sky Blue Floral Patch Pure Cotton Kurti with Palazzo Set. Color might be slightly different due to camera lighting.,https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/MT-CLO-0011/2.jpeg,,M|L|XL|XXL,,
+id,code,name,category,price,tag,description,colors,sizes,types,weights,variant_matrix,images
+11,MT-CLO-0011,Sky Blue Floral Patch Pure Cotton Kurti With Palazzo Set,clothing,55,New,Sky Blue Floral Patch Pure Cotton Kurti with Palazzo Set. Color might be slightly different due to camera lighting.,,"M|L|XL|XXL",,,,https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/MT-CLO-0011/2.jpeg
 12,MT-CLO-0012,Cotton Linen Cord Set,clothing,60,New,"Premium Quality Mantra Cotton Linen Embroidered Cord Set.
 Color might be slightly different due to camera light effects.
-In black color M, L, XL, and XXL are available. In beige color only M and XXL are available.","https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/0022.jpeg
-https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/image%202026-04-17%20at%2010.52.30%20PM.jpeg",#AA8A73|#000000,M|L|XL|XXL,,
-2,MT-CLO-002,Cashmere Knit Sweater,clothing,245,,Luxuriously soft 100% cashmere in a loose-fit crewneck style.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+In black color M, L, XL, and XXL are available. In beige color only M and XXL are available.","#AA8A73|#000000","M|L|XL|XXL",,,,"https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/0022.jpeg
+https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/image%202026-04-17%20at%2010.52.30%20PM.jpeg"
+2,MT-CLO-002,Cashmere Knit Sweater,clothing,245,,Luxuriously soft 100% cashmere in a loose-fit crewneck style.,,"S|M|L",,"Light|Medium",,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",,S|M|L,,Light|Medium
-3,MT-CLO-003,Wide-Leg Trousers,clothing,148,,Tailored high-waist trousers in a structured crepe fabric.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg"
+3,MT-CLO-003,Wide-Leg Trousers,clothing,148,,Tailored high-waist trousers in a structured crepe fabric.,"#000000|#FF0000",,,"Light|Medium",,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",#000000|#FF0000,,,Light|Medium
-1,MT-CLO-001,Silk Midi Dress,clothing,189,New,Fluid silk blend with a relaxed silhouette. Available in ivory & black.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg"
+1,MT-CLO-001,Silk Midi Dress,clothing,189,New,Fluid silk blend with a relaxed silhouette. Available in ivory & black.,"#000000|#FF0000","S|M|L|XL|2XL","Casual|Party","Light|Medium",,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",#000000|#FF0000,S|M|L|XL|2XL,Casual|Party,Light|Medium
-4,MT-CLO-004,Linen Blazer,clothing,212,Sale,Oversized linen blazer with subtle texture. Perfect for layering.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg"
+4,MT-CLO-004,Linen Blazer,clothing,212,Sale,Oversized linen blazer with subtle texture. Perfect for layering.,,"S|M|L",,,,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",,S|M|L,,
-5,MT-JWL-001,Diamond Tennis Bracelet,jewelry,320,Featured,Sterling silver bracelet set with brilliant-cut cubic zirconia stones.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg"
+5,MT-JWL-001,Diamond Tennis Bracelet,jewelry,320,Featured,Sterling silver bracelet set with brilliant-cut cubic zirconia stones.,"#000000|#FF0000",,,"Light|Medium",,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",#000000|#FF0000,,,Light|Medium
-6,MT-JWL-002,Gold Hoop Earrings,jewelry,89,,"Classic 18k gold-plated hoops, 35mm diameter. Lightweight and elegant.","https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg"
+6,MT-JWL-002,Gold Hoop Earrings,jewelry,89,,"Classic 18k gold-plated hoops, 35mm diameter. Lightweight and elegant.",,,"Casual|Party",,,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",,,Casual|Party,
-7,MT-JWL-003,Pearl Pendant Necklace,jewelry,156,New,Freshwater pearl pendant on a delicate 18-inch gold chain.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg"
+7,MT-JWL-003,Pearl Pendant Necklace,jewelry,156,New,Freshwater pearl pendant on a delicate 18-inch gold chain.,"#000000|#FF0000","S|M|L",,"Light|Medium",,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",#000000|#FF0000,S|M|L,,Light|Medium
-8,MT-JWL-004,Vintage Ring Set,jewelry,74,,Set of 3 stackable rings with art-deco-inspired detailing.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg"
+8,MT-JWL-004,Vintage Ring Set,jewelry,74,,Set of 3 stackable rings with art-deco-inspired detailing.,,,"Casual|Party",,,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",,,Casual|Party,
-9,MT-ACC-001,Leather Tote Bag,accessories,295,Featured,Full-grain vegetable-tanned leather tote with interior pockets.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg"
+9,MT-ACC-001,Leather Tote Bag,accessories,295,Featured,Full-grain vegetable-tanned leather tote with interior pockets.,"#000000|#FF0000","S|M|L",,,,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",#000000|#FF0000,S|M|L,,
-10,MT-ACC-002,Silk Scarf,accessories,118,,Hand-rolled edges on a 90x90cm printed silk twill scarf.,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg"
+10,MT-ACC-002,Silk Scarf,accessories,118,,Hand-rolled edges on a 90x90cm printed silk twill scarf.,,,"Casual|Party",Light,,"https://s.alicdn.com/@sc04/kf/S57cf393809694e4ab100e429aaad249dq.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/Sd2631ee8895c4f8b87d56ecaf3c0eaccB.jpg_960x960q80.jpg
 https://s.alicdn.com/@sc04/kf/S8eb6227a99fd4ed19338a948f37e7c2cN.jpg_960x960q80.jpg
-https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg",,,Casual|Party,Light
+https://s.alicdn.com/@sc04/kf/S598958d2b98648d29f195641a4313a82f.jpg_960x960q80.jpg"
+13,MT-CLO-0013,Kaftaan,clothing,65,New,Georgette Fabric Turkish Style.,,"M|LG|XL",,,,"https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/clothing/MT-CLO-0013/c341b0e0-1ef7-4416-9e6e-56dca802c3de.jpeg
+https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/clothing/MT-CLO-0013/63b526ea-4974-44ea-91aa-ca6972064a8c.jpeg
+https://raw.githubusercontent.com/moderntrends1432/moderntrends/main/images/clothing/MT-CLO-0013/8eba55ed-4ada-46f6-97b4-24b24a636a96.jpeg"
