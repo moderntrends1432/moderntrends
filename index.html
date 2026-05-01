@@ -1423,6 +1423,14 @@ document.querySelectorAll('.product-card img').forEach(img => {
   img.style.objectPosition = 'center top';
   img.style.display = 'block';
 });
+
+document.querySelectorAll('.pm-slider-track img').forEach(img => {
+  img.style.width = '100%';
+  img.style.height = '260px';
+  img.style.objectFit = 'cover';
+  img.style.objectPosition = 'center top';
+  img.style.display = 'block';
+});
 }
 
 // If products load asynchronously, observe DOM changes
