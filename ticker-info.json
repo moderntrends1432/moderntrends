@@ -1,0 +1,17 @@
+{
+  "theme": "theme-summer",
+  "items": [
+    {
+      "tag": "Mother's Day Special",
+      "tagClass": "tag-limited",
+      "text": "<span class=''ticker-highlight'>20% - 50%</span> off on selected outfits.",
+      "cta": "Shop now"
+    },
+    {
+      "tag": "Eid Sale",
+      "tagClass": "tag-flash",
+      "text": "<span class=''ticker-highlight'>20% - 50%</span> off on selected outfits.",
+      "cta": "Shop now"
+    }
+  ]
+}
