@@ -1,15 +1,15 @@
 {
-  "theme": "theme-spring",
+  "theme": "theme-holiday",
   "items": [
     {
       "tag": "Mother's Day Special",
-      "tagClass": "tag-limited",
+      "tagClass": "tag-free",
       "text": "<span class=''ticker-highlight'>20% - 50%</span> off on selected outfits.",
       "cta": "Shop now"
     },
     {
       "tag": "Eid Sale",
-      "tagClass": "tag-flash",
+      "tagClass": "tag-sale",
       "text": "<span class=''ticker-highlight'>20% - 50%</span> off on selected outfits.",
       "cta": "Shop now"
     }
